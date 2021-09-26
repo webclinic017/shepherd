@@ -1,0 +1,5 @@
+{
+    "endpoint": "put your alpaca URL endpoint (paper trading or live trading)",
+    "apiKeyID": "put API Key ID here",
+    "secretKey": "put secret key here"
+}
