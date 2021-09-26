@@ -10,8 +10,6 @@
 
 ## Features
 
-<br>
-
  - clean CLI shell interface
  - utilizes alpaca API and yahoo finance API
  - concise commands for executing various orders and strategies
@@ -32,8 +30,6 @@
  <br>
  
  ## To-Do
-
-<br>
 
 - implement mean return and risk-adjusted return based long-only price momentum strategies
 - earnings-momentum strategy implementation
