@@ -1,0 +1,4 @@
+riposte
+alpaca_trade_api
+colorama
+pandas
