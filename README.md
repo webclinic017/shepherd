@@ -17,7 +17,7 @@
     - sell-side limit orders
     - trailing stop orders (supports both trail price and trail percentage)
     - bracket orders (stop-loss + take-profit or only stop-loss)
-    - long-only price momentum strategy based on cumulative returns 
+    - long-only price momentum strategy based on cumulative returns of stocks in S&P 500 coded from scratch
     
  - miscellaneous helpful commands 
     - portfolio gain/loss
