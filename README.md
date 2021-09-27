@@ -25,7 +25,7 @@
     - portfolio buying power indicator
     - closed orders display
     - rudimentary client ID system
-    - asset check to see if it's tradeable on alpaca
+    - asset check to see if it's tradeable throug alpaca API
  
  <br>
  
